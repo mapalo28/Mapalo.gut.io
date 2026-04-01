@@ -1,1 +1,1 @@
-# Mapalo28.gut.io
+# mapalo28.gut.io
